@@ -12,6 +12,9 @@ Quick Qostomizable Questionaire (QQQ) is an user-friendly toolbox for MATLAB (or
 - result-based splitting of your participants for further experimentation.
 
 ## Usage
+
+QQQ is a free software released under GNU General Public Lisence 3 or later, and stays free for ever. You can always download your own copy and use it for any purpose. Simply follow the steps:
+
 1. [Download the `.zip` file](https://github.com/hyiltiz/QQQ/archive/master.zip) from this Github page;
 1. Install [Psychtoolbox 3.0](http://psychtoolbox.org/download/) if you are using `QQQ` with Psychtoolbox;
 1. import your questionaire data in `quesDB.m` following the templates provided in the file;
