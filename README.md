@@ -6,9 +6,9 @@ Quick Qostomizable Questionaire (QQQ) is an user-friendly toolbox for MATLAB (or
 - several ready-to-use structures as templates;
 - high-precision reaction time capture;
 - support for multiple choice questions with several and/or several answers;
-- support for Psychtoolbox (OpenGL) that integrates seamlessly with your current psychophysics experiments.
+- support for Psychtoolbox (OpenGL) that integrates seamlessly with your current psychophysics experiments;
 - costumizable instructions for each items in your questionaire or blocks of items (sub-scales) that could be used to split your questionaire in half or in any other manner;
-- automatically encode to generate the result for each sub-scales;
+- automatic encoding to generate the result for each sub-scales;
 - result-based splitting of your participants for further experimentation.
 
 ## Usage
