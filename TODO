@@ -1,1 +1,10 @@
-Full support for vanilla Matlab with GUI and Octave for CLI
+Full support for vanilla Matlab with GUI and Octave for CLI is no longer on the
+TODO list, since these does not provide a unified interface for presenting
+text, audio, image, video files. Psychtoolbox is a hard-dependency.
+
+TODO:
+multiple choice support;
+manual encoding as well as automatic encoding based on order;
+variable length choices for different items;
+better visual interface (fonts, layouts)
+importing xls template
